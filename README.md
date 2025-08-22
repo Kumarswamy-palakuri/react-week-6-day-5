@@ -8,7 +8,7 @@ To clone this repository to your local machine, run the following command in you
 
 ```bash
 git clone https://github.com/Kumarswamy-palakuri/react-week-6-day-5.git
-
+```
 ## 🚀 Setup Instructions
 
 1. Install dependencies:
