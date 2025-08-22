@@ -1,6 +1,3 @@
-# Task1-Week6
-
-This is a React + Redux project for task management.
 # React Week 6 Day 5
 
 This repository contains the code for **React Week 6 Day 5** practice/project.
