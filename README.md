@@ -76,7 +76,15 @@ This command will remove the single build dependency from your project. If you a
 
 The main application components are structured as follows:
 
-
+-src/
+- ├── components/
+- │ ├── Dashboard.js
+- │ ├── Home.js
+- │ ├── Login.js
+- │ └── Profile.js
+- │
+- └── App.js
+- └── index.js
 
 This repository contains the code for **React Week 6 Day 5** practice/project.
 
